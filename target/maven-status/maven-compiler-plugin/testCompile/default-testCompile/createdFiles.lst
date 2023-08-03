@@ -1,0 +1,5 @@
+Cofee_TestCases\TC01_Cofee.class
+Cofee_PageObject\pageobjects.class
+Cofee_Utilities\Constants.class
+Cofee_TestCases\BaseClass.class
+Cofee_TestCases\TC02.class
