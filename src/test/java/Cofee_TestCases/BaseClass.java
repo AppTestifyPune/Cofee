@@ -29,6 +29,7 @@ public class BaseClass
 		logger = Logger.getLogger("Cofee");
 		PropertyConfigurator.configure("Log4j.properties");
 		logger.info("The URL Launch");
+		Thread.sleep(5000);
 	}
 	
 	public static void Wait()
