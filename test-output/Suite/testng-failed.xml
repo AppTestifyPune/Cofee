@@ -3,13 +3,6 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="Cofee_TestCases.TC02">
-        <methods>
-          <include name="OpenURL"/>
-          <include name="ExtraCupPopUp"/>
-          <include name="CloseUrl"/>
-        </methods>
-      </class> <!-- Cofee_TestCases.TC02 -->
       <class name="Cofee_TestCases.TC01_Cofee">
         <methods>
           <include name="OpenURL"/>

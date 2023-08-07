@@ -1,39 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-04T01:58:34 IST" name="Suite" finished-at="2023-08-04T01:58:54 IST" duration-ms="20705">
+  <suite started-at="2023-08-07T09:41:23 IST" name="Default suite" finished-at="2023-08-07T09:41:32 IST" duration-ms="8508">
     <groups>
     </groups>
-    <test started-at="2023-08-04T01:58:34 IST" name="Test" finished-at="2023-08-04T01:58:54 IST" duration-ms="20705">
+    <test started-at="2023-08-07T09:41:23 IST" name="Default test" finished-at="2023-08-07T09:41:32 IST" duration-ms="8508">
       <class name="Cofee_TestCases.TC02_Cofee">
-        <test-method is-config="true" signature="OpenURL()[pri:0, instance:Cofee_TestCases.TC02_Cofee@2a798d51]" started-at="2023-08-04T01:58:47 IST" name="OpenURL" finished-at="2023-08-04T01:58:54 IST" duration-ms="7149" status="PASS">
+        <test-method is-config="true" signature="OpenURL()[pri:0, instance:Cofee_TestCases.TC02_Cofee@294425a7]" started-at="2023-08-07T09:41:23 IST" name="OpenURL" finished-at="2023-08-07T09:41:31 IST" duration-ms="7920" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenURL -->
-        <test-method signature="ExtraCupPopUp()[pri:0, instance:Cofee_TestCases.TC02_Cofee@2a798d51]" started-at="2023-08-04T01:58:54 IST" name="ExtraCupPopUp" finished-at="2023-08-04T01:58:54 IST" duration-ms="3" status="PASS">
+        <test-method signature="ExtraCupPopUp()[pri:0, instance:Cofee_TestCases.TC02_Cofee@294425a7]" started-at="2023-08-07T09:41:31 IST" name="ExtraCupPopUp" finished-at="2023-08-07T09:41:32 IST" duration-ms="370" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ExtraCupPopUp -->
-        <test-method is-config="true" signature="CloseUrl()[pri:0, instance:Cofee_TestCases.TC02_Cofee@2a798d51]" started-at="2023-08-04T01:58:54 IST" name="CloseUrl" finished-at="2023-08-04T01:58:54 IST" duration-ms="228" status="PASS">
+        <test-method is-config="true" signature="CloseUrl()[pri:0, instance:Cofee_TestCases.TC02_Cofee@294425a7]" started-at="2023-08-07T09:41:32 IST" name="CloseUrl" finished-at="2023-08-07T09:41:32 IST" duration-ms="183" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseUrl -->
       </class> <!-- Cofee_TestCases.TC02_Cofee -->
-      <class name="Cofee_TestCases.TC01_Cofee">
-        <test-method is-config="true" signature="OpenURL()[pri:0, instance:Cofee_TestCases.TC01_Cofee@9f116cc]" started-at="2023-08-04T01:58:34 IST" name="OpenURL" finished-at="2023-08-04T01:58:43 IST" duration-ms="9053" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- OpenURL -->
-        <test-method signature="Add_Cup_intocart()[pri:0, instance:Cofee_TestCases.TC01_Cofee@9f116cc]" started-at="2023-08-04T01:58:43 IST" name="Add_Cup_intocart" finished-at="2023-08-04T01:58:47 IST" duration-ms="3951" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Add_Cup_intocart -->
-        <test-method is-config="true" signature="CloseUrl()[pri:0, instance:Cofee_TestCases.TC01_Cofee@9f116cc]" started-at="2023-08-04T01:58:47 IST" name="CloseUrl" finished-at="2023-08-04T01:58:47 IST" duration-ms="273" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- CloseUrl -->
-      </class> <!-- Cofee_TestCases.TC01_Cofee -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

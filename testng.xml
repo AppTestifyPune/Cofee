@@ -5,6 +5,7 @@
     <classes>
       <class name="Cofee_TestCases.TC01_Cofee"/>
       <class name="Cofee_TestCases.TC02_Cofee"/>
+      <class name="Cofee_TestCases.TC03_Cofee"/>     
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
