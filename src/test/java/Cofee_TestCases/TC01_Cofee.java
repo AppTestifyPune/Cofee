@@ -18,10 +18,11 @@ public class TC01_Cofee extends BaseClass
 	ExtentReports extent = new ExtentReports();
 	ExtentSparkReporter spark = new ExtentSparkReporter("target/Cofee.html");
 	//User able to select cup and add into cart
+	
 	@Test(priority=01)
 	public void Add_Cup_intocart() throws Exception
 	{   
-		ExtentTest test= extent.createTest("Verify Test case").assignAuthor("Sagar Magdum").assignCategory("Functional Tests").assignDevice("Windows 11");
+		ExtentTest test= extent.createTest("Verify Test case 01").assignAuthor("Sagar Magdum").assignCategory("Functional Tests").assignDevice("Windows 11");
 		test.info("Test case numbers");
 		
 		driver.manage().window().maximize();
@@ -52,8 +53,8 @@ public class TC01_Cofee extends BaseClass
 	@Test(priority=02,description="First Popup for extra cup appeared after selecting 3 cup")
 	public void ExtraCupPopUp() throws Exception
 	{	
-		ExtentTest test= extent.createTest("Verify Test case").assignAuthor("Sagar Magdum").assignCategory("Functional Tests").assignDevice("Windows 11");
-		test.info("Test case numbers");
+		ExtentTest test1= extent.createTest("Verify Test case 02").assignAuthor("Sagar Magdum").assignCategory("Functional Tests").assignDevice("Windows 11");
+		test1.info("Test case numbers");
 		
 		driver.navigate().refresh();
 		pageobjects.espresso(driver).click();
@@ -64,11 +65,11 @@ public class TC01_Cofee extends BaseClass
 		if(pageobjects.ExtraCup(driver).getText().equals("Yes, of course!"))
 		{
 			logger.info("Pass 2nd Test case || Successful Get an extra cup of Mocha");
-			test.pass("2nd test case pass");
+			test1.pass("2nd test case pass");
 		}else 
 		{
 			logger.info("Fail 2nd Test case ");
-			test.fail("2 nd test case fail");
+			test1.fail("2 nd test case fail");
 		}	
 		Thread.sleep(3000);
 	}
@@ -77,8 +78,8 @@ public class TC01_Cofee extends BaseClass
 	@Test(priority=03,description="2nd time pop-up for Get an extra cup of Mocha")
 	public void Get_Extra_Cup_Second_Popup() throws Exception
 	{	
-		ExtentTest test= extent.createTest("Verify Test case").assignAuthor("Sagar Magdum").assignCategory("Functional Tests").assignDevice("Windows 11");
-		test.info("Test case numbers");
+		ExtentTest test2= extent.createTest("Verify Test case").assignAuthor("Sagar Magdum").assignCategory("Functional Tests").assignDevice("Windows 11");
+		test2.info("Test case numbers");
 		
 		driver.navigate().refresh();
 		pageobjects.espresso(driver).click();
@@ -92,12 +93,12 @@ public class TC01_Cofee extends BaseClass
 		if(pageobjects.ExtraCup(driver).getText().equals("Yes, of course!"))
 		{
 			logger.info("Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups");
-			test.pass("3rd test case pass");
+			test2.pass("3rd test case pass");
 		}
 		else 
 		{
 			logger.info(" Failed 3rd test case");
-			test.fail("3rd test case fail");
+			test2.fail("3rd test case fail");
 		}
 		Thread.sleep(3000);
 	}
