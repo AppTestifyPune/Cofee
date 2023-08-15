@@ -78,7 +78,7 @@ public class TC01_Cofee extends BaseClass
 	@Test(priority=03,description="2nd time pop-up for Get an extra cup of Mocha")
 	public void Get_Extra_Cup_Second_Popup() throws Exception
 	{	
-		ExtentTest test2= extent.createTest("Verify Test case").assignAuthor("Sagar Magdum").assignCategory("Functional Tests").assignDevice("Windows 11");
+		ExtentTest test2= extent.createTest("Verify Test case 03").assignAuthor("Sagar Magdum").assignCategory("Functional Tests").assignDevice("Windows 11");
 		test2.info("Test case numbers");
 		
 		driver.navigate().refresh();
