@@ -329,3 +329,8 @@
 2023-08-15 15:03:33,898 [main] INFO Cofee - User Is able to add a cup into Cart
 2023-08-15 15:03:39,272 [main] INFO Cofee - Pass 2nd Test case || Successful Get an extra cup of Mocha
 2023-08-15 15:03:42,792 [main] INFO Cofee - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-15 15:15:45,853 [main] INFO Cofee - The URL Launch
+2023-08-15 15:15:51,112 [main] INFO Cofee - TC01 pass
+2023-08-15 15:15:51,113 [main] INFO Cofee - User Is able to add a cup into Cart
+2023-08-15 15:15:56,496 [main] INFO Cofee - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-15 15:15:59,961 [main] INFO Cofee - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
