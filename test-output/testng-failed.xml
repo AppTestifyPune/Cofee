@@ -7,6 +7,10 @@
         <methods>
           <include name="OpenURL"/>
           <include name="Add_Cup_intocart"/>
+          <include name="ExtraCupPopUp"/>
+          <include name="Get_Extra_Cup_Second_Popup"/>
+          <include name="beforetest"/>
+          <include name="aftertest"/>
           <include name="CloseUrl"/>
         </methods>
       </class> <!-- Cofee_TestCases.TC01_Cofee -->

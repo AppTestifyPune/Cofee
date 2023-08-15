@@ -116,3 +116,216 @@
 2023-08-07 11:18:02,566 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
 2023-08-07 11:18:04,298 - Cofee -INFO - The URL Launch
 2023-08-07 11:18:10,097 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup
+2023-08-13 21:33:24,240 - Cofee -INFO - The URL Launch
+2023-08-13 21:33:29,517 - Cofee -INFO - TC01 pass
+2023-08-13 21:33:29,518 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 21:42:17,466 - Cofee -INFO - The URL Launch
+2023-08-13 21:42:22,739 - Cofee -INFO - TC01 pass
+2023-08-13 21:42:22,739 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 21:46:14,819 - Cofee -INFO - The URL Launch
+2023-08-13 21:46:20,287 - Cofee -INFO - TC01 pass
+2023-08-13 21:46:20,287 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 21:46:25,762 - Cofee -INFO - The URL Launch
+2023-08-13 21:46:31,215 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-13 21:46:33,074 - Cofee -INFO - The URL Launch
+2023-08-13 21:46:38,629 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-13 21:52:12,737 - Cofee -INFO - The URL Launch
+2023-08-13 21:52:17,987 - Cofee -INFO - TC01 pass
+2023-08-13 21:52:17,987 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 21:54:54,957 - Cofee -INFO - The URL Launch
+2023-08-13 21:55:00,217 - Cofee -INFO - TC01 pass
+2023-08-13 21:55:00,217 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 21:56:50,696 - Cofee -INFO - The URL Launch
+2023-08-13 21:56:55,969 - Cofee -INFO - TC01 pass
+2023-08-13 21:56:55,969 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 21:57:01,453 - Cofee -INFO - The URL Launch
+2023-08-13 21:57:06,884 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-13 21:57:08,904 - Cofee -INFO - The URL Launch
+2023-08-13 21:57:14,445 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-13 22:00:54,056 - Cofee -INFO - The URL Launch
+2023-08-13 22:01:00,143 - Cofee -INFO - TC01 pass
+2023-08-13 22:01:00,143 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 22:02:06,709 - Cofee -INFO - The URL Launch
+2023-08-13 22:02:11,965 - Cofee -INFO - TC01 pass
+2023-08-13 22:02:11,966 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 22:02:17,254 - Cofee -INFO - The URL Launch
+2023-08-13 22:02:22,699 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-13 22:02:24,795 - Cofee -INFO - The URL Launch
+2023-08-13 22:02:30,329 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-13 22:05:35,442 - Cofee -INFO - The URL Launch
+2023-08-13 22:05:40,885 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-13 22:05:42,862 - Cofee -INFO - The URL Launch
+2023-08-13 22:05:48,597 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-13 22:07:18,616 - Cofee -INFO - The URL Launch
+2023-08-13 22:07:23,879 - Cofee -INFO - TC01 pass
+2023-08-13 22:07:23,880 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 22:07:28,858 - Cofee -INFO - The URL Launch
+2023-08-13 22:07:34,386 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-13 22:07:36,616 - Cofee -INFO - The URL Launch
+2023-08-13 22:07:42,340 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-13 22:10:28,500 - Cofee -INFO - The URL Launch
+2023-08-13 22:10:33,752 - Cofee -INFO - TC01 pass
+2023-08-13 22:10:33,752 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 22:10:38,918 - Cofee -INFO - The URL Launch
+2023-08-13 22:10:44,285 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-13 22:10:46,040 - Cofee -INFO - The URL Launch
+2023-08-13 22:10:51,469 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-13 22:11:13,948 - Cofee -INFO - The URL Launch
+2023-08-13 22:11:19,198 - Cofee -INFO - TC01 pass
+2023-08-13 22:11:19,199 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 22:11:24,419 - Cofee -INFO - The URL Launch
+2023-08-13 22:11:29,821 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-13 22:11:33,702 - Cofee -INFO - The URL Launch
+2023-08-13 22:11:39,181 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-13 22:13:18,798 - Cofee -INFO - The URL Launch
+2023-08-13 22:13:24,060 - Cofee -INFO - TC01 pass
+2023-08-13 22:13:24,060 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 22:13:30,719 - Cofee -INFO - The URL Launch
+2023-08-13 22:13:36,253 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-13 22:13:41,073 - Cofee -INFO - The URL Launch
+2023-08-13 22:13:46,667 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-13 22:16:59,036 - Cofee -INFO - The URL Launch
+2023-08-13 22:17:04,277 - Cofee -INFO - TC01 pass
+2023-08-13 22:17:04,277 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 22:17:11,224 - Cofee -INFO - The URL Launch
+2023-08-13 22:17:16,660 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-13 22:17:21,559 - Cofee -INFO - The URL Launch
+2023-08-13 22:28:27,906 - Cofee -INFO - The URL Launch
+2023-08-13 22:28:33,449 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-13 22:28:38,412 - Cofee -INFO - The URL Launch
+2023-08-13 22:28:44,016 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-13 22:29:25,649 - Cofee -INFO - The URL Launch
+2023-08-13 22:29:30,913 - Cofee -INFO - TC01 pass
+2023-08-13 22:29:30,914 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 22:29:37,800 - Cofee -INFO - The URL Launch
+2023-08-13 22:29:43,258 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-13 22:29:47,776 - Cofee -INFO - The URL Launch
+2023-08-13 22:29:53,434 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-13 22:30:38,723 - Cofee -INFO - The URL Launch
+2023-08-13 22:30:43,965 - Cofee -INFO - TC01 pass
+2023-08-13 22:30:43,965 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 22:30:50,983 - Cofee -INFO - The URL Launch
+2023-08-13 22:30:56,424 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-13 22:31:01,600 - Cofee -INFO - The URL Launch
+2023-08-13 22:31:07,247 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-13 22:34:24,568 - Cofee -INFO - The URL Launch
+2023-08-13 22:34:29,838 - Cofee -INFO - TC01 pass
+2023-08-13 22:34:29,838 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 22:34:37,125 - Cofee -INFO - The URL Launch
+2023-08-13 22:34:42,572 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-13 22:34:47,565 - Cofee -INFO - The URL Launch
+2023-08-13 22:34:53,088 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-13 22:35:54,393 - Cofee -INFO - The URL Launch
+2023-08-13 22:35:59,638 - Cofee -INFO - TC01 pass
+2023-08-13 22:35:59,638 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 22:36:54,522 - Cofee -INFO - The URL Launch
+2023-08-13 22:36:59,776 - Cofee -INFO - TC01 pass
+2023-08-13 22:36:59,776 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 22:39:37,541 - Cofee -INFO - The URL Launch
+2023-08-13 22:39:42,790 - Cofee -INFO - TC01 pass
+2023-08-13 22:39:42,791 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 22:44:33,344 - Cofee -INFO - The URL Launch
+2023-08-13 22:44:38,626 - Cofee -INFO - TC01 pass
+2023-08-13 22:44:38,626 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 22:44:46,041 - Cofee -INFO - The URL Launch
+2023-08-13 22:44:51,474 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-13 22:44:56,686 - Cofee -INFO - The URL Launch
+2023-08-13 22:45:02,196 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-13 22:46:32,202 - Cofee -INFO - The URL Launch
+2023-08-13 22:46:37,452 - Cofee -INFO - TC01 pass
+2023-08-13 22:46:37,452 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 22:47:13,916 - Cofee -INFO - The URL Launch
+2023-08-13 22:47:19,165 - Cofee -INFO - TC01 pass
+2023-08-13 22:47:19,165 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-13 22:48:27,661 - Cofee -INFO - The URL Launch
+2023-08-13 22:49:07,130 - Cofee -INFO - The URL Launch
+2023-08-13 22:49:12,404 - Cofee -INFO - TC01 pass
+2023-08-13 22:49:12,404 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-14 08:50:25,811 - Cofee -INFO - The URL Launch
+2023-08-14 08:50:31,258 - Cofee -INFO - TC01 pass
+2023-08-14 08:50:31,260 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-14 11:03:16,796 - Cofee -INFO - The URL Launch
+2023-08-14 11:03:22,090 - Cofee -INFO - TC01 pass
+2023-08-14 11:03:22,091 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-14 11:03:29,775 - Cofee -INFO - The URL Launch
+2023-08-14 11:03:35,373 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-14 11:03:40,788 - Cofee -INFO - The URL Launch
+2023-08-14 11:03:46,741 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-14 11:07:59,807 - Cofee -INFO - The URL Launch
+2023-08-14 11:08:12,465 - Cofee -INFO - TC01 pass
+2023-08-14 11:08:12,466 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-14 11:08:19,570 - Cofee -INFO - The URL Launch
+2023-08-14 11:08:25,184 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-14 11:08:30,363 - Cofee -INFO - The URL Launch
+2023-08-14 11:08:36,154 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-14 11:13:24,086 - Cofee -INFO - The URL Launch
+2023-08-14 11:13:29,378 - Cofee -INFO - TC01 pass
+2023-08-14 11:13:29,379 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-14 11:13:36,439 - Cofee -INFO - The URL Launch
+2023-08-14 11:13:42,167 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-14 11:13:47,583 - Cofee -INFO - The URL Launch
+2023-08-14 11:13:53,286 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-14 13:07:28,201 - Cofee -INFO - The URL Launch
+2023-08-14 13:07:33,937 - Cofee -INFO - TC01 pass
+2023-08-14 13:07:33,938 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-14 13:07:42,140 - Cofee -INFO - The URL Launch
+2023-08-14 13:07:47,579 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-14 13:07:53,210 - Cofee -INFO - The URL Launch
+2023-08-14 13:07:58,780 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-14 13:12:09,169 - Cofee -INFO - The URL Launch
+2023-08-14 13:12:14,423 - Cofee -INFO - TC01 pass
+2023-08-14 13:12:14,424 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-14 13:12:21,776 - Cofee -INFO - The URL Launch
+2023-08-14 13:12:27,171 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-14 13:12:32,425 - Cofee -INFO - The URL Launch
+2023-08-14 13:12:37,939 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-14 19:21:19,405 - Cofee -INFO - The URL Launch
+2023-08-14 19:21:24,668 - Cofee -INFO - TC01 pass
+2023-08-14 19:21:24,669 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-14 19:21:31,851 - Cofee -INFO - The URL Launch
+2023-08-14 19:21:37,391 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-14 19:21:42,424 - Cofee -INFO - The URL Launch
+2023-08-14 19:21:48,179 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-14 19:28:43,272 - Cofee -INFO - The URL Launch
+2023-08-14 19:28:48,540 - Cofee -INFO - TC01 pass
+2023-08-14 19:28:48,541 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-14 19:28:55,914 - Cofee -INFO - The URL Launch
+2023-08-14 19:29:01,520 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-14 19:29:06,782 - Cofee -INFO - The URL Launch
+2023-08-14 19:29:12,547 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-14 19:36:33,415 - Cofee -INFO - The URL Launch
+2023-08-14 19:37:58,497 - Cofee -INFO - The URL Launch
+2023-08-14 19:38:03,776 - Cofee -INFO - TC01 pass
+2023-08-14 19:38:03,776 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-14 19:38:09,202 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-14 19:38:13,048 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-14 19:40:27,622 - Cofee -INFO - The URL Launch
+2023-08-14 19:40:32,925 - Cofee -INFO - TC01 pass
+2023-08-14 19:40:32,925 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-14 19:40:38,357 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-14 19:40:42,177 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-15 14:26:20,337 - Cofee -INFO - The URL Launch
+2023-08-15 14:26:25,600 - Cofee -INFO - TC01 pass
+2023-08-15 14:26:25,601 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-15 14:26:30,950 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-15 14:26:34,404 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-15 14:48:06,841 - Cofee -INFO - The URL Launch
+2023-08-15 14:48:12,133 - Cofee -INFO - TC01 pass
+2023-08-15 14:48:12,133 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-15 14:48:17,502 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-15 14:48:21,052 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-15 14:49:09,333 - Cofee -INFO - The URL Launch
+2023-08-15 14:49:14,603 - Cofee -INFO - TC01 pass
+2023-08-15 14:49:14,604 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-15 14:49:19,967 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-15 14:49:23,430 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-15 14:53:13,280 - Cofee -INFO - The URL Launch
+2023-08-15 14:53:18,539 - Cofee -INFO - TC01 pass
+2023-08-15 14:53:18,539 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-15 14:53:23,897 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-15 14:53:27,369 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
+2023-08-15 15:03:28,643 - Cofee -INFO - The URL Launch
+2023-08-15 15:03:33,898 - Cofee -INFO - TC01 pass
+2023-08-15 15:03:33,898 - Cofee -INFO - User Is able to add a cup into Cart
+2023-08-15 15:03:39,272 - Cofee -INFO - Pass 2nd Test case || Successful Get an extra cup of Mocha
+2023-08-15 15:03:42,792 - Cofee -INFO - Pass 3rd Test case || Appeared pop up for mocha cup 2nd time after selecting 2 cups
